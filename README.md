@@ -1,2 +1,2 @@
 # ckSajjadWebsite
- A minimal Portfoli site
+ A minimal Portfolio site
